@@ -53,3 +53,12 @@ Jenkins CI/CD pipeine working successfuly
 
 ## Result
 Successfully created Jenkins CI/CD pipeline integrated with Github.
+
+<img width="1282" height="718" alt="Github Repository" src="https://github.com/user-attachments/assets/681ec353-70a2-4afc-89cc-18ea8f85de9c" />
+<img width="1286" height="689" alt="Browser output" src="https://github.com/user-attachments/assets/39b545b0-1e36-4ff7-a350-6e40e7c498c9" />
+<img width="645" height="380" alt="Docker container output" src="https://github.com/user-attachments/assets/cfd7568a-cbe6-44e1-bdb2-9156191f7b88" />
+<img width="1288" height="613" alt="Jenkin" src="https://github.com/user-attachments/assets/f9764d24-61bb-47a7-aa45-a3613391e717" />
+<img width="1288" height="613" alt="Jenkins Build Success" src="https://github.com/user-attachments/assets/1255a2a7-0958-4e6f-901f-6f24a09d3b76" />
+
+
+
